@@ -1,8 +1,8 @@
 # Baishampayan Ghose's Genome
 
-Ethnicity: South Asian/Indian
-Parental (Y) haplogroup: J2
-Maternal (mtDNA) haplogroup: U7
+* Ethnicity: South Asian/Indian
+* Parental (Y) haplogroup: J2
+* Maternal (mtDNA) haplogroup: U7
 
 # Licence
 
